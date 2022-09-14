@@ -1,0 +1,148 @@
+.main{
+position: relative;
+width: 1440px;
+height: 900px;
+background: #9DBEBB;
+}
+.rect-1{
+position: absolute;
+width: 954px;
+height: 594px;
+left: 243px;
+top: 153px;
+background: #BE0909;
+justify-content: center;
+align-items: center;
+}
+.rect-2{
+position: absolute;
+width: 345px;
+height: 594px;
+left: 852px;
+top: 153px;
+background: #FFB039;
+}
+.name{
+position: absolute;
+width: 400px;
+height: 72px;
+left: 308px;
+top: 217px;
+color: white;
+}
+.line-1{
+position: absolute;
+width: 400px;
+height: 21px;
+left: 308px;
+top: 250px; 
+letter-spacing: 0.3em;
+background-color: unset;
+color: white;
+border-bottom-color: white;
+border-right-width: 0px;
+border-left: 0px;
+border-top: 0px;   
+}
+.email{
+position: absolute;
+width: 160px;
+height: 72px;
+left: 308px;
+top: 311px;
+color: white;
+}
+.line-2{
+position: absolute;
+width: 150px;
+height: 21px;
+left: 318px;
+top: 353px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: 0.3em;
+background-color: unset;
+color: white;
+border-bottom-color: white;
+border-right-width: 0px;
+border-left: 0px;
+border-top: 0px;
+}
+.message{
+position: absolute;
+width: 213px;
+height: 72px;
+left: 308px;
+top: 414px;
+color: white;
+}
+.line-3{
+position: absolute;
+width: 160px;
+height: 21px;
+left: 308px;
+top: 486px;
+letter-spacing: 0.3em;
+background-color: unset;
+color: white;
+border-bottom-color: white;
+border-right-width: 0px;
+border-left: 0px;
+border-top: 0px;   
+}
+.message-1{
+position: absolute;
+width: 400px;
+height: 72px;
+left: 308px;
+top: 507px;
+color: white;
+}
+.your-message{
+    position: absolute;
+width: 324px;
+height: 21px;
+left: 318px;
+top: 549px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+/* identical to box height */
+
+letter-spacing: 0.3em;
+
+background-color: unset;
+border-bottom-color: white;
+border-right-width: 0px;
+border-left: 0px;
+border-top: 0px;  
+}
+.btn-1{
+    position: absolute;
+width: 202px;
+height: 48px;
+left: 407px;
+top: 635px;
+color: white;
+background-color: #468189;
+border-radius: 25px;
+}
+.btn-1:hover{
+    background-color: green;
+    
+}
+.image{
+position: absolute;
+width: 663px;
+height: 603px;
+left: 585px;
+top: 205px;
+
+}
